@@ -1,6 +1,8 @@
 # compiled output
 /dist
 /node_modules
+.history
+.DS_Store
 
 # Logs
 logs
